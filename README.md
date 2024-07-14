@@ -11,5 +11,4 @@
    Email: arjunchavhan024@gmail.com
 
 ## Link :
-   url : https://github.com/arjunchavhan024/Teligram-Front-Page-
-
+   url : https://telegram-arjunchavhan024.netlify.app/
